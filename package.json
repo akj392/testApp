@@ -1,0 +1,17 @@
+{
+  "name": "defender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Jhaji",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "node": "^16.3.0",
+    "nodemon": "^2.0.7"
+  }
+}
